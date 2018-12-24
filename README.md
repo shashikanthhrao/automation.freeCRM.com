@@ -5,5 +5,6 @@ TestNG - Framework for setup, breakdown, parallel testing, cross browser testing
 Extent Report
 Page Object Model, 
 Data Driven Testing
-apache-poi, MS xls, xlsx
-MySql
+apache-poi, 
+MS Excel (xls/xlsx), 
+MySql.
